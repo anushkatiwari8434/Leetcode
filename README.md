@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anushkatiwari8434/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anushkatiwari8434/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/anushkatiwari8434/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anushkatiwari8434/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anushkatiwari8434/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkatiwari8434/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/anushkatiwari8434/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/anushkatiwari8434/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anushkatiwari8434/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anushkatiwari8434/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/anushkatiwari8434/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/anushkatiwari8434/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/anushkatiwari8434/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushkatiwari8434/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/anushkatiwari8434/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anushkatiwari8434/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anushkatiwari8434/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anushkatiwari8434/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkatiwari8434/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
