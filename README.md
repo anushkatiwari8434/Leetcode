@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/anushkatiwari8434/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/anushkatiwari8434/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anushkatiwari8434/Leetcode/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/anushkatiwari8434/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/anushkatiwari8434/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anushkatiwari8434/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/anushkatiwari8434/Leetcode/tree/master/0509-fibonacci-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/anushkatiwari8434/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/anushkatiwari8434/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anushkatiwari8434/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/anushkatiwari8434/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/anushkatiwari8434/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anushkatiwari8434/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anushkatiwari8434/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
