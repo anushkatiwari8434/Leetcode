@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anushkatiwari8434/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anushkatiwari8434/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/anushkatiwari8434/Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/anushkatiwari8434/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anushkatiwari8434/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/anushkatiwari8434/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anushkatiwari8434/Leetcode/tree/master/0326-power-of-three) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anushkatiwari8434/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/anushkatiwari8434/Leetcode/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anushkatiwari8434/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/anushkatiwari8434/Leetcode/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anushkatiwari8434/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/anushkatiwari8434/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anushkatiwari8434/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/anushkatiwari8434/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/anushkatiwari8434/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anushkatiwari8434/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/anushkatiwari8434/Leetcode/tree/master/0242-valid-anagram) |
