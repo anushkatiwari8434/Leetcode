@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/anushkatiwari8434/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anushkatiwari8434/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/anushkatiwari8434/Leetcode/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/anushkatiwari8434/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/anushkatiwari8434/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anushkatiwari8434/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anushkatiwari8434/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
