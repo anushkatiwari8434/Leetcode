@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/anushkatiwari8434/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/anushkatiwari8434/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anushkatiwari8434/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/anushkatiwari8434/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/anushkatiwari8434/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/anushkatiwari8434/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/anushkatiwari8434/Leetcode/tree/master/2469-convert-the-temperature) |
