@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/anushkatiwari8434/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/anushkatiwari8434/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/anushkatiwari8434/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anushkatiwari8434/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/anushkatiwari8434/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/anushkatiwari8434/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anushkatiwari8434/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/anushkatiwari8434/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/anushkatiwari8434/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anushkatiwari8434/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anushkatiwari8434/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/anushkatiwari8434/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/anushkatiwari8434/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/anushkatiwari8434/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/anushkatiwari8434/Leetcode/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
 | ------- |
