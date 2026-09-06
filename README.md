@@ -293,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/anushkatiwari8434/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1693-daily-leads-and-partners](https://github.com/anushkatiwari8434/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/anushkatiwari8434/Leetcode/tree/master/1729-find-followers-count) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/anushkatiwari8434/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
